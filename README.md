@@ -1,6 +1,6 @@
 # Awesome Rust floats
 
-This is a curated list of Rust floating-point crates and utilities. Mostly a list of crates I find interesting.
+This is a curated list of Rust floating-point(and real numbers in general)  crates and utilities. Mostly a list of crates I find interesting.
 
 ## Improved precision
 
