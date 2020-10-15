@@ -1,6 +1,6 @@
 # Awesome Rust floats
 
-This is a curated list of floating-point (and real numbers in general) libraries and utilities for the Rust programming language. Mostly a list of crates I find interesting.
+This is a curated list of libraries and utilities to manipulate floating-point (and real numbers in general) in the Rust programming language. Mostly a list of crates I find interesting.
 
 ## Improved precision
 
