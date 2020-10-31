@@ -34,6 +34,7 @@ This is a curated list of libraries and utilities to manipulate floating-point (
 ## Alternative numeric types
 
 - [Num](https://crates.io/crates/num), collection of numeric types (and traits) including rationals and complex numbers
+- [Algebraics](https://crates.io/crates/algebraics), algebraic number (slow but exact operations)
 - [SoftPosit](https://crates.io/crates/softposit), posit numbers (alternative to IEEE-754 arithmetic)
 - [Half](https://crates.io/crates/half), 16 bit float (storage only, no operator provided)
 
